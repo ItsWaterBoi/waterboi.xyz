@@ -14,3 +14,19 @@ body {
     position: fixed;
 }
 
+#nav a {
+    color: white;
+    text-decoration: none;
+}
+
+#nav #sitename {
+    font-size: 25px;
+}
+
+#nav li {
+    list-style-type: none;
+    padding-left: 10px;
+    display: inline-block;
+}
+
+

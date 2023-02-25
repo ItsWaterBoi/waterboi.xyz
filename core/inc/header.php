@@ -9,6 +9,13 @@
 </head>
 <body>
     <div id="nav">
-        <ul><id>waterboi.xyz</id></ul>
+        <ul>
+            <li id="sitename">
+                <a href="/">waterboi.xyz</a>
+            </li>
+            <li>
+                <a href="/projects.php">Projects</a>
+            </li>
+        </ul>
     </div>
     <br><br><br>
