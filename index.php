@@ -1,7 +1,6 @@
 <?php define("tabname", "Home"); ?>
 <?php include_once("core/inc/header.php"); ?>
 
-<br><br><br>
 <h1>👋 Hi, I'm WaterBoi!</h1>
 <h2>I develop things and like to mess around with roblox clients</h2>
 <h3>You can see some of my posts and projects below</h3>
