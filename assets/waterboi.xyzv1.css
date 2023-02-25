@@ -1,11 +1,15 @@
 body {
     font-family: sans-serif;
+    color: white;
+    background-color: #101112;
+    padding-left: 10px;
 }
 
 #nav {
-    background-color: cornflowerblue;
+    background-color: #03336e;
     padding: 10px;
+    width: 100%;
     top: 0;
-    bottom: 0;
-    position: sticky;
+    left: 0;
+    position: fixed;
 }

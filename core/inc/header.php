@@ -8,3 +8,6 @@
     <title><?php echo tabname; ?> - waterboi.xyz</title>
 </head>
 <body>
+    <div id="nav">
+        <ul><id>waterboi.xyz</id></ul>
+    </div>
