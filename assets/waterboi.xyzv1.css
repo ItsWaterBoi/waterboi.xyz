@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+#nav {
+    background-color: cornflowerblue;
+    padding: 10px;
+    top: 0;
+    bottom: 0;
+    position: sticky;
+}
